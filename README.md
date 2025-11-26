@@ -73,8 +73,9 @@ By systematically practicing these activities, you can iteratively refine your d
 ```
 
 ## Output:
+[UIUX EXP - 6.pdf](https://github.com/user-attachments/files/23762737/UIUX.EXP.-.6.2.pdf)
 
-[UIUXExp-5.pdf](https://github.com/user-attachments/files/23762698/UIUXExp-5.2.pdf)
+
 
 
 
